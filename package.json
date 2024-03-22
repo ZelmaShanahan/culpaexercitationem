@@ -1,0 +1,39 @@
+{
+  "name": "culpaexercitationem",
+  "version": "1.0.0",
+  "description": "React HMR support for Typescript as AST transformer",
+  "main": "index.js",
+  "files": [
+    "lib/transformer.js",
+    "lib/transformer.d.ts",
+    "index.js",
+    "index.d.ts",
+    "cold.js"
+  ],
+  "keywords": [
+    "nisi",
+    "deleniti",
+    "react",
+    "aut"
+  ],
+  "author": "AmosGerhold",
+  "license": "ISC",
+  "dependencies": {
+    "react-proxy": "^1.1.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ZelmaShanahan/culpaexercitationem.git"
+  },
+  "devDependencies": {
+    "@types/chai": "^4.1.7",
+    "@types/node": "^11.11.6",
+    "chai": "^4.2.0",
+    "print-diff": "^0.1.1",
+    "ts-loader": "^5.3.3",
+    "typescript": "^3.3.3333",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.2.3",
+    "webpack-dev-server": "^3.2.1"
+  }
+}
